@@ -63,7 +63,7 @@ To contribute to the AI community by developing solutions that not only push the
 
 ### 📫 Let's Connect:
 
-- **LinkedIn**: [linkedin.com/in/RahulYourProfile]](https://www.linkedin.com/in/rahul-ranjan-b595891b1/))
+- **LinkedIn**: [Rahul](https://www.linkedin.com/in/rahul-ranjan-b595891b1/))
 - **Email**: [rran0038@student.monash.edu](mailto:rran0038@student.monash.edu)
 
 ---
