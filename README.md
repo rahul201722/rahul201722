@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 
 - **Attention Mechanisms**: Crafting a custom `MyAttention` class to enhance machine learning models. 🎯
 - **Datasets for Deep Learning**: Developing intuitive and efficient dataset management tools for AI projects.
-- **Research**: Preparing for my Q1 paper submission by March 2025. 📝
 
 ---
 
