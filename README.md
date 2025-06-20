@@ -35,31 +35,6 @@ Welcome to my GitHub profile! I'm passionate about building intelligent systems,
 - **Data Management**: SQL, MongoDB, PostgreSQL
 - **Other Tools**: Git, Docker, Minizinc, Flask
 
----
-
-### 🛠️ Key Projects:
-
-- **Surface Plasmonic Resonance for Biomarker Detection**
-  - Designed a sensor for detecting biomarkers in HeLa cells using SPR.
-  - Conducted Python-based simulations to analyze light-matter interactions for biomedical applications.
-
-- **IoT-Based Water Management System**
-  - Developed an IoT-based water pipeline monitoring system, reducing operational costs by 12% through predictive maintenance.
-
-
-
-### 🌟 Achievements:
-
-- **The Duke of Edinburgh’s International Award for Young People** (Silver Standard)
-  - Recognized for personal challenges and achievements as a young leader.
-
----
-
-### 🌍 My Vision:
-
-To contribute to the AI community by developing solutions that not only push the boundaries of technology but also improve lives globally. Let's build the future together!
-
----
 
 ### 📫 Let's Connect:
 
