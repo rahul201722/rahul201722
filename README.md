@@ -36,7 +36,7 @@ Deep Learning
 **Frameworks**: PyTorch, TensorFlow, Scikit-learn, Flask, Pandas, NumPy  
 **Tools**: Docker, Git, Tableau  
 **Databases**: PostgreSQL, MongoDB  
-**Specialties**: Signal Processing, Statistical Modeling, Predictive Analytics, IoT Health Applications
+**Specialties**: Signal Processing, Statistical Modeling, Predictive Analytics, AI Health Applications
 
 ---
 
