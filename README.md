@@ -1,43 +1,74 @@
-# Hi there, I'm Rahul! 👋
+# Rahul Ranjan
 
-### 🚀 Aspiring AI Engineer | Lifelong Learner | Tech Enthusiast
+**AI Researcher | Biomedical Signal Processing | Deep Learning Engineer**
 
----
-
-Welcome to my GitHub profile! I'm passionate about building intelligent systems, exploring cutting-edge AI techniques, and turning ideas into impactful solutions. My journey in AI is fueled by curiosity, creativity, and a relentless drive to make a difference.
+Welcome to my GitHub. I specialize in developing intelligent systems at the intersection of artificial intelligence, mobile health, and biomedical signal processing. My focus is on solving impactful real-world problems through deep learning, statistical modeling, and data-driven research.
 
 ---
 
-<!-- ### 💻 What I'm Currently Working On: -->
+## Education
+
+**Master of Artificial Intelligence**  
+Monash University, Melbourne (2023 – 2025)  
+Coursework: Deep Learning, Intelligent Image & Video Analysis, Machine Learning, Data Science, Project Management
+
+**B.E. (Hons.) Electronics & Instrumentation + M.Sc. (Hons.) Physics**  
+BITS Pilani, India (2017 – 2022)  
+Focus: Neural Networks, Digital Image Processing, VLSI Design, Classical Mechanics
 
 ---
 
-### 🌱 My Background:
+## Research Interests
 
-#### **Education**
-- **Master of Artificial Intelligence**
-  - Monash University, Melbourne (Feb 2023 – Present)
-  - Coursework: Machine Learning, Multi-agent Systems, Discrete Optimization, Intelligent Image and Video Analysis, Project Management, Deep Learning
+Artificial Intelligence  
+Biomedical Signal Processing  
+Mobile Health Monitoring  
+Computer Vision  
+Time Series Analysis  
+Vital Sign Estimation  
+Deep Learning  
 
-- **Master of Science (Physics)** & **Bachelor of Engineering (Electronics and Instrumentation)**
-  - Birla Institute of Technology and Science, Pilani (Aug 2017 – Jun 2022)
-  - Coursework: Neural Network and Fuzzy Logic, Digital Image Processing, VLSI Design, and Classical Mechanics
+---
+
+## Technical Skills
+
+**Programming**: Python, MATLAB, R, Java, SQL  
+**Frameworks**: PyTorch, TensorFlow, Scikit-learn, Flask, Pandas, NumPy  
+**Tools**: Docker, Git, Tableau  
+**Databases**: PostgreSQL, MongoDB  
+**Specialties**: Signal Processing, Statistical Modeling, Predictive Analytics, IoT Health Applications
 
 ---
 
-### 🔧 Technical Skills:
+## Recent Projects
 
-- **Programming Languages**: Python (Proficient), MATLAB (Proficient), R (Intermediate), Java (Intermediate)
-- **AI/ML Tools**: TensorFlow, PyTorch, Scikit-learn, Tableau
-- **Data Management**: SQL, MongoDB, PostgreSQL
-- **Other Tools**: Git, Docker, Minizinc, Flask
+**VITAL Net**  
+Smartphone-based deep learning system for SpO₂ and heart rate estimation
 
+**Monte Carlo Simulations**  
+Statistical physics simulations on Ising models using Python multiprocessing
 
-### 📫 Let's Connect:
+**Predictive Maintenance - CRIS**  
+Developed AI-driven algorithms to reduce equipment downtime and manage large-scale databases
 
-- **LinkedIn**: [Rahul Ranjan](https://www.linkedin.com/in/rahul-ranjan-b595891b1/)
-- **Email**: [rran0038@student.monash.edu](mailto:rran0038@student.monash.edu)
+**Data Analytics - Aglow Engineers**  
+Built ETL pipelines and interactive dashboards to optimize operations and reduce costs
 
 ---
+
+## Publication
+
+Ranjan, R., Roha, V. S., & Yuce, M. R. (2025).  
+**Evolving Blood Pressure Estimation: From Feature Analysis to Image-Based Deep Learning Models**  
+*Journal of Medical Systems, 49(1), 97*  
+DOI: [10.1007/s10916-025-02010-4](https://doi.org/10.1007/s10916-025-02010-4)
+
+---
+
+## Contact
+
+**Email**: rahulrkm0038@gmail.com  
+**LinkedIn**: [linkedin.com/in/rahul-ranjan-b595891b1](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
+
 
 
