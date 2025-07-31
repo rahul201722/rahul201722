@@ -61,7 +61,7 @@ Built ETL pipelines and interactive dashboards to optimize operations and reduce
 Ranjan, R., Roha, V. S., & Yuce, M. R. (2025).  
 **Evolving Blood Pressure Estimation: From Feature Analysis to Image-Based Deep Learning Models**  
 *Journal of Medical Systems, 49(1), 97*  
-DOI: [10.1007/s10916-025-02010-4](https://doi.org/10.1007/s10916-025-02010-4)
+DOI: [10.1007/s10916-025-02010-4](https://doi.org/10.1007/s10916-025-02228-6))
 
 ---
 
