@@ -69,5 +69,7 @@ DOI: [10.1007/s10916-025-02010-4](https://doi.org/10.1007/s10916-025-02228-6)
 
 **LinkedIn**: [linkedin.com/in/rahul-ranjan-b595891b1](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
 
+### website - https://rahul201722.github.io
+
 
 
