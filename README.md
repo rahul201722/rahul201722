@@ -1,5 +1,7 @@
 # Rahul Ranjan
 
+### website - https://rahul201722.github.io
+
 **AI Researcher | Biomedical Signal Processing | Deep Learning Engineer**
 
 Welcome to my GitHub. I specialize in developing intelligent systems at the intersection of artificial intelligence, mobile health, and biomedical signal processing. My focus is on solving impactful real-world problems through deep learning, statistical modeling, and data-driven research.
@@ -68,8 +70,6 @@ DOI: [10.1007/s10916-025-02010-4](https://doi.org/10.1007/s10916-025-02228-6)
 ## Contact
 
 **LinkedIn**: [linkedin.com/in/rahul-ranjan-b595891b1](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
-
-### website - https://rahul201722.github.io
 
 
 
