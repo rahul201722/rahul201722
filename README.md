@@ -136,7 +136,7 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul201722&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=rahul201722&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
