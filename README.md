@@ -1,75 +1,160 @@
-# Rahul Ranjan
+<div align="center">
 
-### website - https://rahul201722.github.io
+# 👋 Hi, I'm Rahul Ranjan
 
-**AI Researcher | Biomedical Signal Processing | Deep Learning Engineer**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=AI+Researcher;Deep+Learning+Engineer;Biomedical+Signal+Processing)](https://git.io/typing-svg)
 
-Welcome to my GitHub. I specialize in developing intelligent systems at the intersection of artificial intelligence, mobile health, and biomedical signal processing. My focus is on solving impactful real-world problems through deep learning, statistical modeling, and data-driven research.
+[![Profile Views](https://komarev.com/ghpvc/?username=rahul201722&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rahul201722)
+[![Website](https://img.shields.io/badge/Website-rahul201722.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://rahul201722.github.io)
+
+</div>
 
 ---
 
-## Education
+## 👨‍💻 About Me
+
+Welcome to my GitHub! I specialize in developing intelligent systems at the intersection of artificial intelligence, mobile health, and biomedical signal processing. My focus is on solving impactful real-world problems through deep learning, statistical modeling, and data-driven research.
+
+---
+
+## 🎓 Education
 
 **Master of Artificial Intelligence**  
-Monash University, Melbourne (2023 – 2025)  
-Coursework: Deep Learning, Intelligent Image & Video Analysis, Machine Learning, Data Science, Project Management
+📍 Monash University, Melbourne | 📅 2023 – 2025  
+*Coursework: Deep Learning, Intelligent Image & Video Analysis, Machine Learning, Data Science, Project Management*
 
 **B.E. (Hons.) Electronics & Instrumentation + M.Sc. (Hons.) Physics**  
-BITS Pilani, India (2017 – 2022)  
-Focus: Neural Networks, Digital Image Processing, VLSI Design, Classical Mechanics
+📍 BITS Pilani, India | 📅 2017 – 2022  
+*Focus: Neural Networks, Digital Image Processing, VLSI Design, Classical Mechanics*
 
 ---
 
-## Research Interests
+## 🔬 Research Interests
 
-Artificial Intelligence  
-Biomedical Signal Processing  
-Mobile Health Monitoring  
-Computer Vision  
-Time Series Analysis  
-Vital Sign Estimation  
-Deep Learning  
+<div align="center">
 
----
+🤖 **Artificial Intelligence** | 🏥 **Biomedical Signal Processing** | 📱 **Mobile Health Monitoring**  
+👁️ **Computer Vision** | 📈 **Time Series Analysis** | ❤️ **Vital Sign Estimation** | 🧠 **Deep Learning**
 
-## Technical Skills
-
-**Programming**: Python, MATLAB, R, Java, SQL  
-**Frameworks**: PyTorch, TensorFlow, Scikit-learn, Flask, Pandas, NumPy  
-**Tools**: Docker, Git, Tableau  
-**Databases**: PostgreSQL, MongoDB  
-**Specialties**: Signal Processing, Statistical Modeling, Predictive Analytics, AI Health Applications
+</div>
 
 ---
 
-## Recent Projects
+## 💻 Technical Skills
 
-**VITAL Net**  
-Smartphone-based deep learning system for SpO₂ and heart rate estimation
+### Programming Languages
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
+<img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
 
-**Monte Carlo Simulations**  
-Statistical physics simulations on Ising models using Python multiprocessing
+### Frameworks & Libraries
+<p>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
 
-**Predictive Maintenance - CRIS**  
-Developed AI-driven algorithms to reduce equipment downtime and manage large-scale databases
+### Tools & Technologies
+<p>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</p>
 
-**Data Analytics - Aglow Engineers**  
-Built ETL pipelines and interactive dashboards to optimize operations and reduce costs
+### Specialties
+**Signal Processing** • **Statistical Modeling** • **Predictive Analytics** • **AI Health Applications**
 
 ---
 
-## Publication
+## 🚀 Featured Projects
 
-Ranjan, R., Roha, V. S., & Yuce, M. R. (2025).  
-**Evolving Blood Pressure Estimation: From Feature Analysis to Image-Based Deep Learning Models**  
-*Journal of Medical Systems, 49(1), 97*  
-DOI: [10.1007/s10916-025-02010-4](https://doi.org/10.1007/s10916-025-02228-6)
+### 📱 VITAL Net
+**Smartphone-based deep learning for SpO₂ and heart rate estimation**
+
+<p>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+</p>
+
+### 🎲 Monte Carlo Simulations
+**Statistical physics on Ising models**
+
+<p>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/-Statistical%20Physics-276DC3?style=flat-square" alt="Statistical Physics"/>
+</p>
+
+### 🔧 Predictive Maintenance - CRIS
+**AI-driven algorithms for equipment management**
+
+<p>
+<img src="https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="ML"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
+### 📊 Data Analytics - Aglow Engineers
+**ETL pipelines and dashboards**
+
+<p>
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
 
 ---
 
-## Contact
+## 📄 Publication
 
-**LinkedIn**: [linkedin.com/in/rahul-ranjan-b595891b1](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
+**Ranjan, R., Roha, V. S., & Yuce, M. R. (2025).**  
+*Evolving Blood Pressure Estimation: From Feature Analysis to Image-Based Deep Learning Models*  
+**Journal of Medical Systems, 49(1), 97**  
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs10916--025--02228--6-blue?style=flat-square)](https://doi.org/10.1007/s10916-025-02228-6)
 
+---
 
+## 📊 GitHub Statistics
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rahul201722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul201722&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul201722&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Ranjan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
+[![Website](https://img.shields.io/badge/Website-rahul201722.github.io-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahul201722.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul201722@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ From [rahul201722](https://github.com/rahul201722) | Open to research collaborations and opportunities
+
+</div>
