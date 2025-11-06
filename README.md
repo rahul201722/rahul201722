@@ -134,11 +134,11 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=rahul201722&theme=tokyonight&hide_border=true&cache_bust=1)](https://git.io/streak-stats)
 
-</div>
+</div> -->
 
 ---
 
