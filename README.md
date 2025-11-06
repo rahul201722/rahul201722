@@ -5,8 +5,9 @@
 ![AI Researcher](https://img.shields.io/badge/AI_Researcher-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Deep Learning Engineer](https://img.shields.io/badge/Deep_Learning_Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Biomedical Signal Processing](https://img.shields.io/badge/Biomedical_Signal_Processing-007B8A?style=for-the-badge&logo=healthgraphs&logoColor=white)
-[![Profile Views](https://komarev.com/ghpvc/?username=rahul201722&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/rahul201722)
-[![Website](httpshttps://img.shields.io/badge/Website-rahul201722.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahul201722.github.io)
+
+<br> [![Profile Views](https://komarev.com/ghpvc/?username=rahul201722&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/rahul201722)
+[![Website](https://img.shields.io/badge/Website-rahul201722.github.io-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahul201722.github.io)
 
 </div>
 ---
