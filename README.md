@@ -2,8 +2,9 @@
 
 # 👋 Hi, I'm Rahul Ranjan
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=AI+Researcher;Deep+Learning+Engineer;Biomedical+Signal+Processing)](https://git.io/typing-svg)
-
+![AI Researcher](https://img.shields.io/badge/AI_Researcher-2E9EF7?style=flat)
+![Deep Learning Engineer](https://img.shields.io/badge/Deep_Learning_Engineer-2E9EF7?style=flat)
+![Biomedical Signal Processing](https://img.shields.io/badge/Biomedical_Signal_Processing-2E9EF7?style=flat)
 [![Profile Views](https://komarev.com/ghpvc/?username=rahul201722&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rahul201722)
 [![Website](https://img.shields.io/badge/Website-rahul201722.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://rahul201722.github.io)
 
