@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Rahul Ranjan
 
-![AI Researcher](https://img.shields.io/badge/AI_Researcher-2E9EF7?style=flat)
-![Deep Learning Engineer](https://img.shields.io/badge/Deep_Learning_Engineer-2E9EF7?style=flat)
-![Biomedical Signal Processing](https://img.shields.io/badge/Biomedical_Signal_Processing-2E9EF7?style=flat)
+![AI Researcher](https://img.shields.io/badge/AI_Researcher-2E9EF7?style=flat-square)
+![Deep Learning Engineer](https://img.shields.io/badge/Deep_Learning_Engineer-2E9EF7?style=flat-square)
+![Biomedical Signal Processing](https://img.shields.io/badge/Biomedical_Signal_Processing-2E9EF7?style=flat-square)
 [![Profile Views](https://komarev.com/ghpvc/?username=rahul201722&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/rahul201722)
 [![Website](https://img.shields.io/badge/Website-rahul201722.github.io-blue?style=flat-square&logo=google-chrome&logoColor=white)](https://rahul201722.github.io)
 
