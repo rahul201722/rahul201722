@@ -74,45 +74,6 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 ### Specialties
 **Signal Processing** • **Statistical Modeling** • **Predictive Analytics** • **AI Health Applications**
 
----
-
-## 🚀 Featured Projects
-
-### 📱 VITAL Net
-**Smartphone-based deep learning for SpO₂ and heart rate estimation**
-
-<p>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
-</p>
-
-### 🎲 Monte Carlo Simulations
-**Statistical physics on Ising models**
-
-<p>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/-Statistical%20Physics-276DC3?style=flat-square" alt="Statistical Physics"/>
-</p>
-
-### 🔧 Predictive Maintenance - CRIS
-**AI-driven algorithms for equipment management**
-
-<p>
-<img src="https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="ML"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-### 📊 Data Analytics - Aglow Engineers
-**ETL pipelines and dashboards**
-
-<p>
-<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
 
 ---
 
