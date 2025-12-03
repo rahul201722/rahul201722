@@ -26,7 +26,7 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 **B.E. (Hons.) Electronics & Instrumentation + M.Sc. (Hons.) Physics**  
 📍 BITS Pilani, India | 📅 2017 – 2022  
-*Focus: Neural Networks, Digital Image Processing, VLSI Design, Classical Mechanics*
+*Focus: Neural Networks and Fuzzy logic, Digital Image Processing, VLSI Design, Computational Physics*
 
 ---
 
@@ -97,7 +97,7 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=rahul201722&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rahul201722&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
