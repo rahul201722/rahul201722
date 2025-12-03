@@ -90,16 +90,16 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rahul201722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul201722&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rahul201722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul201722&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170"/>
 
 </div>
 
-<!-- <div align="center">
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=rahul201722&theme=tokyonight&hide_border=true&cache_bust=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=rahul201722&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-</div> -->
+</div>
 
 ---
 
