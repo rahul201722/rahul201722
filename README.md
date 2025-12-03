@@ -141,14 +141,7 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rahul_Ranjan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
 [![Website](https://img.shields.io/badge/Website-rahul201722.github.io-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rahul201722.github.io)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.test.1374@gmail.com)
+<!-- [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.test.1374@gmail.com)-->
 
 </div>
 
----
-
-<div align="center">
-
-⭐️ From [rahul201722](https://github.com/rahul201722) | Open to research collaborations and opportunities
-
-</div>
