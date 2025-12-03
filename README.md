@@ -101,6 +101,38 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 </div>
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahul201722&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### 📈 GitHub Metrics
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/rahul201722/rahul201722/output/github-metrics.svg)
+
+</div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/rahul201722/rahul201722/output/github-contribution-grid-snake.svg)
+
+</div>
+
+### 📊 Activity Graph
+
+<div align="center">
+
+[![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahul201722&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 ---
 
 ## 📫 Connect With Me
