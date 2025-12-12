@@ -34,8 +34,8 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 <div align="center">
 
-🤖 **Artificial Intelligence** | 🏥 **Biomedical Signal Processing** | 📱 **Mobile Health Monitoring**  
-👁️ **Computer Vision** | 📈 **Time Series Analysis** | ❤️ **Vital Sign Estimation** | 🧠 **Deep Learning**
+**Artificial Intelligence** | **Biomedical Signal Processing** | **Mobile Health Monitoring**  
+**Computer Vision** | **Time Series Analysis** | **Vital Sign Estimation** | **Deep Learning**
 
 </div>
 
