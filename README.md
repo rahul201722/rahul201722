@@ -123,7 +123,7 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 ![Snake animation](https://raw.githubusercontent.com/rahul201722/rahul201722/main/github-contribution-grid-snake.svg)
 
-</div>
+<!-- </div>
 
 ### 📊 Activity Graph
 
@@ -131,7 +131,7 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 [![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahul201722&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+</div> -->
 
 ---
 
