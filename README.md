@@ -99,7 +99,7 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rahul201722&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rahul201722)](https://git.io/streak-stats)
 
 </div>
 
