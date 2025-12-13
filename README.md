@@ -79,7 +79,7 @@ Welcome to my GitHub! I specialize in developing intelligent systems at the inte
 
 ## 📄 Publication
 
-- **Ranjan, R., Roha, V. S., & Yuce, M. R. (2025).** *Evolving Blood Pressure Estimation: From Feature Analysis to Image-Based Deep Learning Models* **Journal of Medical Systems, 49(1), 97**
+- **Ranjan, R., Roha, V. S., & Yuce, M. R. (2025).** *Evolving Blood Pressure Estimation: From Feature Analysis to Image-Based Deep Learning Models* **Journal of Medical Systems, 49(1), 97** <br />
 [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs10916--025--02228--6-blue?style=flat-square)](https://doi.org/10.1007/s10916-025-02228-6)
 
 - **Ranjan, R., Roha, V. S., & Yuce, M. R. (2026).** *VITAL Net: A Hybrid Framework for SpO2 and HR Estimation Using Smartphone rPPG Video* **Accepted in 2026 IEEE Applied Sensing Conference**
