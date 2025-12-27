@@ -21,16 +21,6 @@
 
 </div>
 
----
-
-## About
-
-I build intelligent systems at the intersection of **AI**, **mobile health**, and **biomedical signal processing**—with a focus on **vital sign estimation from smartphone video / rPPG**.  
-I care about *real-world robustness*: artifact-aware pipelines, strong evaluation, and deployable ML.
-
-**Interests:** rPPG • Blood Pressure (SBP/DBP) • SpO₂ • Time-series DL • Model reliability
-
----
 <!--
 ## Featured Projects
 
