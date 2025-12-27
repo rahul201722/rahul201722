@@ -44,6 +44,7 @@ AI Researcher • Deep Learning Engineer • Biomedical Signal Processing • Mo
 - 📍 Based in Delhi, India  
 - ⚡ Fun fact: I enjoy turning research prototypes into clean, deployable tools (and I’m exploring Rust for systems work).
 
+<!--
 ---
 
 ## 🤝 Connect with Me
@@ -60,7 +61,7 @@ AI Researcher • Deep Learning Engineer • Biomedical Signal Processing • Mo
 <a href="mailto:your.email@domain.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+-->
 ---
 
 ## 🧰 Tech Stack
