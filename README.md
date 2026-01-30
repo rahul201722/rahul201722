@@ -27,10 +27,8 @@
 
 AI Researcher • Deep Learning Engineer • Biomedical Signal Processing • Mobile Health
 
-- 🎓 Master of Artificial Intelligence (Monash University, 2023–2025)  
 - 🧠 I build robust ML + signal-processing pipelines for **smartphone-based vital sign estimation (rPPG)**  
-- 🔬 Interests: rPPG • Blood Pressure (SBP/DBP) • SpO₂ • Time-series DL • Artifact-robust modeling  
-- 📍 Based in Delhi, India  
+- 🔬 Interests: rPPG • Blood Pressure (SBP/DBP) • SpO₂ • Time-series DL • Artifact-robust modeling   
 - 🤝 **Open to research collaborations** in mobile health, biosignals, and real-world ML robustness
 
 ---
