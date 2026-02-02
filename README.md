@@ -115,13 +115,11 @@ Department of Electrical and Computer Systems Engineering
 - **VITAL Net Framework**: Hybrid CNN-Transformer architecture for simultaneous SpO₂ and HR estimation
 - **Contactless BP Monitoring**: Deep learning models for cuffless blood pressure measurement
 - **rPPG Robustness**: Improving signal quality across lighting, motion, and demographic variations
-- **Mobile Health Apps**: iOS/Swift applications for real-time vital sign monitoring
 
 ---
 
 ## 🌱 Currently Learning
 
-- 📱 iOS/Swift development for health monitoring apps
 - 🔄 MLOps and reproducible research workflows
 - 🎯 Motion-aware modeling and sensor fusion for biosignals
 - 🏗️ Scalable ML infrastructure with Rust
