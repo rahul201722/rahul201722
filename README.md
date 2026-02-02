@@ -104,9 +104,6 @@ Tools            : Docker, Git, Flask, Streamlit, LaTeX, Cron
 🥇 **Monash Research Scholarship** *(2026 – 2029)*  
 Department of Electrical and Computer Systems Engineering
 
-🥇 **Faculty of Engineering International Postgraduate Research Scholarship (FEIPRS)** *(2026 – 2029)*  
-Monash University
-
 🥈 **The Duke of Edinburgh's International Award – Silver** *(2015)*
 
 ---
