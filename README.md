@@ -7,7 +7,6 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rahul201722.github.io-0A66C2?style=for-the-badge)](https://rahul201722.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
 [![Email](https://img.shields.io/badge/Email-rahul.ranjan%40monash.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.ranjan@monash.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-rahul201722-181717?style=for-the-badge&logo=github)](https://github.com/rahul201722)
 
 **📍 Melbourne, Australia** | **🎓 Monash University**
 
