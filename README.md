@@ -1,100 +1,155 @@
 <div align="center">
 
-# Rahul Ranjan  
-### AI Researcher • Deep Learning Engineer • Biomedical Signal Processing
+# 👋 Rahul Ranjan
 
-<a href="https://rahul201722.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-rahul201722.github.io-0A66C2? style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rahul-ranjan-b595891b1">
-  <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Ranjan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/rahul201722">
-  <img src="https://img.shields.io/badge/GitHub-rahul201722-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### PhD Researcher in AI & Mobile Health | Biomedical Signal Processing | Deep Learning
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rahul201722.github.io-0A66C2?style=for-the-badge)](https://rahul201722.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
+[![Email](https://img.shields.io/badge/Email-rahul.ranjan%40monash.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.ranjan@monash.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-rahul201722-181717?style=for-the-badge&logo=github)](https://github.com/rahul201722)
 
-<img src="https://img.shields.io/badge/Mobile%20Health-rPPG%20%7C%20BP%20%7C%20SpO2-007B8A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Deep%20Learning-Modeling%20%7C%20Evaluation-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Signal%20Processing-Artifacts%20%7C%20Filtering%20%7C%20Robustness-412991?style=for-the-badge" />
+**📍 Melbourne, Australia** | **🎓 Monash University**
 
 </div>
 
 ---
 
-# Hey there!  I'm Rahul Ranjan 👋
+## 🔬 About Me
 
-AI Researcher • Deep Learning Engineer • Biomedical Signal Processing • Mobile Health
+I'm a **PhD researcher** at Monash University's Department of Electrical & Computer Systems Engineering, specializing in **AI-driven mobile health sensing**. My research focuses on developing robust, contactless vital sign measurement systems using smartphone cameras.
 
-- 🧠 I build robust ML + signal-processing pipelines for **smartphone-based vital sign estimation (rPPG)**  
-- 🔬 Interests: rPPG • Blood Pressure (SBP/DBP) • SpO₂ • Time-series DL • Artifact-robust modeling   
-- 🤝 **Open to research collaborations** in mobile health, biosignals, and real-world ML robustness
+**Research Interests:**
+- 📱 Remote Photoplethysmography (rPPG)
+- 🩺 Cuffless Blood Pressure Estimation
+- 🫀 Smartphone-based Vital Sign Measurement (SpO₂, HR, BP)
+- 🧠 Deep Learning for Biomedical Signal Processing
+- 📊 Computer Vision for Healthcare Applications
 
----
-
-## 🧰 Tech Stack
-
-### Primary
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-
-### Research Tools
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-
-### Systems & Secondary
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-### Familiar
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+**Current Work:**
+- Building end-to-end smartphone video vital-sign pipelines with 95%+ accuracy
+- Achieving MAE < 5 mmHg in contactless blood pressure estimation
+- Developing CNN/Transformer models for robust HR/SpO₂/BP estimation across diverse subjects
+- Processing and analyzing 5000+ video samples across multiple datasets
 
 ---
 
-## 🚀 Research Focus
+## 📚 Education
 
-### 📱 Smartphone rPPG Vital Sign Estimation
-Building end-to-end pipelines for extracting reliable physiological signals from video, with emphasis on:
-- Artifact-aware preprocessing and signal cleaning  
-- Robust evaluation (bias/variance, confidence intervals, reliability-focused metrics)  
-- Models that generalize across lighting, motion, and subject variability  
+<!-- **🎓 PhD in Electrical & Computer Systems Engineering** *(Expected 2029)*  
+Monash University, Melbourne, Australia  
+*Supervisor: Prof. Mehmet Rasit Yuce* -->
 
-### 🧪 Biomedical Signal Processing + Time-Series Modeling
-Exploring hybrid architectures (CNN/RNN/Attention) and evaluation frameworks to reduce error while maintaining clinical realism:
-- Consistent calibration + error breakdowns  
-- Failure mode analysis (motion, illumination, skin tone, ROI drift)  
-- Deployable inference paths (efficient + reproducible)
+**🎓 Master of Artificial Intelligence** *(2023 – 2025)*  
+Monash University, Melbourne, Australia
+
+**🎓 M.Sc. (Hons.) Physics + B.E. (Hons.) Electronics & Instrumentation** *(2017 – 2022)*  
+Birla Institute of Technology and Science (BITS), Pilani, India  
+*Thesis: Monte Carlo Simulations of Phase Transitions in Ising Models*
 
 ---
 
 ## 📄 Publications
 
-- **Evolving Blood Pressure Estimation: From Feature Analysis to Image-Based Deep Learning Models**  
-  *Journal of Medical Systems (2025)*  
-  https://doi.org/10.1007/s10916-025-02228-6  
-  *Contribution: * Comprehensive review of BP estimation methods transitioning from handcrafted feature engineering to end-to-end deep learning; critical evaluation of robustness and generalization challenges in real-world deployment. 
+### 📖 Journal Articles
 
-- **VITAL Net: A Hybrid Framework for SpO₂ and HR Estimation Using Smartphone rPPG Video**  
-  *Accepted — 2026 IEEE Applied Sensing Conference*  
-  *Contribution:* Proposed hybrid CNN-RNN architecture for simultaneous SpO₂ and heart rate estimation from smartphone video; focused on motion artifact resilience and cross-dataset evaluation.
----
+**Evolving Blood Pressure Estimation: From Feature Analysis to Image-Based Deep Learning Models**  
+Roha, V. S., **Ranjan, R.**, & Yuce, M. R. (2025)  
+*Journal of Medical Systems, 49(1), 97*  
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs10916--025--02154--4-blue)](https://doi.org/10.1007/s10916-025-02154-4)
 
-## 📚 Current Learning
+### 🎤 Conference Proceedings
 
-- Motion-aware modeling & sensor fusion for biosignals  
-- MLOps/reproducibility for research code  
-- Swift for iOS app for vital sign monitoring
+**VITAL Net: A Hybrid Framework for SpO₂ and HR Estimation Using Smartphone rPPG Video**  
+**Ranjan, R.**, Roha, V. S., & Yuce, M. R. (2026)  
+*Accepted at IEEE Applied Sensing Conference 2026*  
+![Status](https://img.shields.io/badge/Status-Accepted-success)
 
 ---
 
-If you're working on mobile health, biosignals, or real-world ML robustness, let's connect. 
+## 🛠️ Technical Skills
+
+### 🔥 Core Competencies
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### 📊 ML/CV/Signal Processing
+```
+Deep Learning    : CNN, RNN, LSTM, Transformers, Self-Attention
+Computer Vision  : Object Detection, Face ROI Extraction, Video Processing
+Signal Processing: rPPG, Spectral Filtering, Bandpass Filters, Anomaly Detection
+ML Algorithms    : XGBoost, Random Forest, Scikit-learn, Keras
+```
+
+### 💾 Data & Systems
+```
+Languages        : Python, C++, MATLAB, R, Java, SQL, Bash, Swift, Rust, Go
+Data Libraries   : NumPy, Pandas, Polars, Matplotlib, Seaborn, Plotly
+Databases        : PostgreSQL, MongoDB, SQL
+Tools            : Docker, Git, Flask, Streamlit, LaTeX, Cron
+```
+
+### 🧪 Research Methods
+- Experimental Design & Statistical Analysis
+- Cross-Subject Evaluation & Validation
+- Technical Writing & Reproducibility
+- Dataset Processing & Benchmarking
+
+---
+
+## 🏆 Awards & Recognition
+
+🥇 **Monash Research Scholarship** *(2026 – 2029)*  
+Department of Electrical and Computer Systems Engineering
+
+🥇 **Faculty of Engineering International Postgraduate Research Scholarship (FEIPRS)** *(2026 – 2029)*  
+Monash University
+
+🥈 **The Duke of Edinburgh's International Award – Silver** *(2015)*
+
+---
+
+## 🚀 Current Projects
+
+> **Note:** Research code is released per publication guidelines. For detailed project information, visit my [portfolio website](https://rahul201722.github.io).
+
+### 🔬 Active Research
+- **VITAL Net Framework**: Hybrid CNN-Transformer architecture for simultaneous SpO₂ and HR estimation
+- **Contactless BP Monitoring**: Deep learning models for cuffless blood pressure measurement
+- **rPPG Robustness**: Improving signal quality across lighting, motion, and demographic variations
+- **Mobile Health Apps**: iOS/Swift applications for real-time vital sign monitoring
+
+---
+
+## 🌱 Currently Learning
+
+- 📱 iOS/Swift development for health monitoring apps
+- 🔄 MLOps and reproducible research workflows
+- 🎯 Motion-aware modeling and sensor fusion for biosignals
+- 🏗️ Scalable ML infrastructure with Rust
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on:
+- Mobile health and wearable sensing research
+- Biomedical signal processing challenges
+- Real-world ML robustness and generalization
+- Healthcare AI applications
+
+📧 **Email:** rahul.ranjan@monash.edu  
+🌐 **Website:** [rahul201722.github.io](https://rahul201722.github.io)  
+💼 **LinkedIn:** [linkedin.com/in/rahul-ranjan-b595891b1](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
+
+---
+
+<div align="center">
+
+### 💡 *"Building robust AI systems for accessible healthcare"*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rahul201722&color=blue&style=flat-square)
+
+</div>
