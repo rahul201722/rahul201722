@@ -136,7 +136,7 @@ I'm always interested in collaborating on:
 - Real-world ML robustness and generalization
 - Healthcare AI applications
 
-📧 **Email:** rahul.ranjan@monash.edu  
+📧 **Email:** rahulrkm0038@gmail.com
 🌐 **Website:** [rahul201722.github.io](https://rahul201722.github.io)  
 💼 **LinkedIn:** [linkedin.com/in/rahul-ranjan-b595891b1](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
 
