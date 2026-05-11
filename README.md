@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-rahul.ranjan%40monash.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.ranjan@monash.edu)
 
 **rahul.ranjan@monash.edu | +61 435 844 977 | Melbourne, Australia**  
-[LinkedIn](https://www.linkedin.com/in/rahul-ranjan-b595891b1) | [GitHub](https://github.com/rahul201722) | [Portfolio](https://rahul201722.github.io) | ORCID | Google Scholar
+LinkedIn | GitHub | Portfolio | ORCID | Google Scholar
 
 </div>
 
