@@ -7,7 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rahul201722.github.io-0A66C2?style=for-the-badge)](https://rahul201722.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
 [![GitHub](https://img.shields.io/badge/GitHub-rahul201722-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul201722)
-[![Email](https://img.shields.io/badge/Email-rrahulrkm0038@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrkm0038@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rahulrkm0038@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulrkm0038@gmail.com)
 
 **rahulrkm0038@gmail.com | +61 435 844 977 | Melbourne, Australia**  
 [LinkedIn](https://www.linkedin.com/in/rahul-ranjan-b595891b1) | [GitHub](https://github.com/rahul201722) | [Portfolio](https://rahul201722.github.io) | [ORCID](https://orcid.org/) | [Google Scholar](https://scholar.google.com/)
