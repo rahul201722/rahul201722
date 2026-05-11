@@ -6,45 +6,67 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rahul201722.github.io-0A66C2?style=for-the-badge)](https://rahul201722.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ranjan-b595891b1)
+[![GitHub](https://img.shields.io/badge/GitHub-rahul201722-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul201722)
 [![Email](https://img.shields.io/badge/Email-rahul.ranjan%40monash.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.ranjan@monash.edu)
 
-**📍 Melbourne, Australia** | **🎓 Monash University**
+**rahul.ranjan@monash.edu | +61 435 844 977 | Melbourne, Australia**  
+[LinkedIn](https://www.linkedin.com/in/rahul-ranjan-b595891b1) | [GitHub](https://github.com/rahul201722) | [Portfolio](https://rahul201722.github.io) | [ORCID](https://orcid.org/) | [Google Scholar](https://scholar.google.com/)
 
 </div>
 
 ---
 
-## 🔬 About Me
+## 🧾 Professional Summary
 
-I'm a **PhD researcher** at Monash University's Department of Electrical & Computer Systems Engineering, specializing in **AI-driven mobile health sensing**. My research focuses on developing robust, contactless vital sign measurement systems using smartphone cameras.
-
-**Research Interests:**
-- 📱 Remote Photoplethysmography (rPPG)
-- 🩺 Cuffless Blood Pressure Estimation
-- 🫀 Smartphone-based Vital Sign Measurement (SpO₂, HR, BP)
-- 🧠 Deep Learning for Biomedical Signal Processing
-- 📊 Computer Vision for Healthcare Applications
-
-**Current Work:**
-- Building end-to-end smartphone video vital-sign pipelines with 95%+ accuracy
-- Achieving MAE < 5 mmHg in contactless blood pressure estimation
-- Developing CNN/Transformer models for robust HR/SpO₂/BP estimation across diverse subjects
-- Processing and analyzing 5000+ video samples across multiple datasets
+Full-scholarship PhD researcher in biomedical signal processing and machine learning, focused on extracting vital signs from optical and video signals. Experienced in end-to-end rPPG pipelines, robust feature extraction, CNN/Transformer model development, and real-world validation for heart rate, SpO₂, and cuffless blood pressure estimation. Strong fit for research on physiological monitoring from video images through a combination of signal processing, reproducible experimentation, and deployment-aware model design.
 
 ---
 
-## 📚 Education
+## 🔑 Key Skills
 
-<!-- **🎓 PhD in Electrical & Computer Systems Engineering** *(Expected 2029)*  
-Monash University, Melbourne, Australia  
-*Supervisor: Prof. Mehmet Rasit Yuce* -->
+- **Biomedical Signal Processing:** rPPG, time-series analysis, bandpass filtering, spectral analysis, signal preprocessing, feature extraction, evaluation and validation
+- **Machine Learning / AI:** CNN, Transformer, self-attention, PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, Random Forest, LSTM
+- **Data and Research Systems:** Python, MATLAB, SQL, Bash, OpenCV, NumPy, Pandas, PostgreSQL, MongoDB, Docker, Git, LaTeX
 
-**🎓 Master of Artificial Intelligence** *(2023 – 2025)*  
-Monash University, Melbourne, Australia
+---
 
-**🎓 M.Sc. (Hons.) Physics + B.E. (Hons.) Electronics & Instrumentation** *(2017 – 2022)*  
-Birla Institute of Technology and Science (BITS), Pilani, India  
-*Thesis: Monte Carlo Simulations of Phase Transitions in Ising Models*
+## 🔬 Research Experience
+
+### Graduate Researcher (AI & Mobile Health) | 2024–2025
+Monash University, Melbourne  
+- Developed smartphone-video pipelines for contactless heart rate, SpO₂, and blood pressure estimation, covering face ROI extraction, rPPG preprocessing, feature engineering, and model training.
+- Built CNN- and Transformer-based physiological monitoring models with color transforms, bandpass filtering, and self-attention to improve robustness in real-world mobile-health settings.
+- Analyzed 5,000+ video samples across multiple datasets, reporting 95%+ accuracy on heart-rate and blood-pressure tasks and MAE below 5 mmHg for contactless blood pressure estimation.
+- Designed reproducible cross-subject evaluation, ablation, and model-optimization workflows, reducing inference time by about 40% while keeping model size below 10M parameters.
+
+### Master’s Thesis (Computational Physics) | 2021–2022
+Department of Physics, BITS Pilani, India  
+- Investigated phase transitions in ferromagnetic systems using Monte Carlo simulations with the Metropolis algorithm on 2D and 3D Ising lattice models.
+- Calculated energy, magnetization, susceptibility, and specific heat across temperature sweeps, with emphasis on extracting stable signal-like patterns from noisy simulations.
+- Reduced runtime by 40% through vectorization and parallel temperature computations.
+- Applied finite-size scaling and power-law fitting to estimate critical exponents and analyze the effect of disorder on transition behavior.
+
+---
+
+## 💼 Additional Experience
+
+### Information Technology Officer | Jun 2022–Feb 2023
+Aglow Engineers, Kolkata  
+- Architected the company’s first centralized SQL-based data infrastructure by migrating manual-entry systems into a queryable operational database.
+- Automated data comparison and reporting workflows in Python, improving issue visibility for non-technical stakeholders.
+- Built machine-learning forecasting models using Random Forest and LSTM, reporting 89% accuracy and a 22% reduction in system downtime.
+
+### Software Intern | 2022
+Centre for Railway Information Systems (CRIS), New Delhi  
+- Queried rolling-stock maintenance records from the WISE database to build structured training datasets for predictive modelling.
+- Developed anomaly-detection workflows in Python and XGBoost with reported 94% accuracy for 48-hour failure prediction.
+- Contributed to predictive-maintenance deployment across 200+ railway assets, with reported 18% reduction in workshop downtime.
+
+### Software Development Intern | Aug 2021–Dec 2021
+Xilinx (now AMD), Hyderabad  
+- Developed the “Data Flow Synchronicity Checker” for automated file-hash verification between Head and Artifactory directories.
+- Supported nightly validation workflows covering 1,000+ file checks per day through Bash scripting, cron scheduling, and email reporting.
+- Collaborated with design, verification, and build teams using Helix Swarm and Perforce-based workflows.
 
 ---
 
@@ -61,49 +83,29 @@ Roha, V. S., **Ranjan, R.**, & Yuce, M. R. (2025)
 
 **VITAL Net: A Hybrid Framework for SpO₂ and HR Estimation Using Smartphone rPPG Video**  
 **Ranjan, R.**, Roha, V. S., & Yuce, M. R. (2026)  
-*Accepted at IEEE Applied Sensing Conference 2026*  
-![Status](https://img.shields.io/badge/Status-Accepted-success)
+*Published in: 2026 IEEE Applied Sensing Conference (APSCON)*
 
 ---
 
-## 🛠️ Technical Skills
+## 📚 Education
 
-### 🔥 Core Competencies
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Expert-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**🎓 PhD, Electrical & Computer Systems Engineering** *(Expected 2029, March 2026)*  
+Monash University
 
-### 📊 ML/CV/Signal Processing
-```
-Deep Learning    : CNN, RNN, LSTM, Transformers, Self-Attention
-Computer Vision  : Object Detection, Face ROI Extraction, Video Processing
-Signal Processing: rPPG, Spectral Filtering, Bandpass Filters, Anomaly Detection
-ML Algorithms    : XGBoost, Random Forest, Scikit-learn, Keras
-```
+**🎓 Master of Artificial Intelligence** *(2023–2025)*  
+Monash University  
+Result: Distinction
 
-### 💾 Data & Systems
-```
-Languages        : Python, C++, MATLAB, R, Java, SQL, Bash, Swift, Rust, Go
-Data Libraries   : NumPy, Pandas, Polars, Matplotlib, Seaborn, Plotly
-Databases        : PostgreSQL, MongoDB, SQL
-Tools            : Docker, Git, Flask, Streamlit, LaTeX, Cron
-```
-
-### 🧪 Research Methods
-- Experimental Design & Statistical Analysis
-- Cross-Subject Evaluation & Validation
-- Technical Writing & Reproducibility
-- Dataset Processing & Benchmarking
+**🎓 M.Sc. (Hons.) Physics; B.E. (Hons.) Electronics & Instrumentation** *(2017–2022)*  
+BITS Pilani  
+Thesis: Effect of Disorder on Critical Exponents  
+Supervisor: Prof. P. K. Thiruvikraman
 
 ---
 
-## 🏆 Awards & Recognition
+## 🏆 Awards
 
-🥇 **Monash Research Scholarship** *(2026 – 2029)*  
-Department of Electrical and Computer Systems Engineering
-
-🥈 **The Duke of Edinburgh's International Award – Silver** *(2015)*
+🥈 **The Duke of Edinburgh’s International Award, Silver** *(2015)*
 
 ---
 
