@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-rahul.ranjan%40monash.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahul.ranjan@monash.edu)
 
 **rahul.ranjan@monash.edu | +61 435 844 977 | Melbourne, Australia**  
-LinkedIn | GitHub | Portfolio | ORCID | Google Scholar
+[LinkedIn](https://www.linkedin.com/in/rahul-ranjan-b595891b1) | [GitHub](https://github.com/rahul201722) | [Portfolio](https://rahul201722.github.io) | [ORCID](https://orcid.org/) | [Google Scholar](https://scholar.google.com/)
 
 </div>
 
@@ -36,7 +36,7 @@ Full-scholarship PhD researcher in biomedical signal processing and machine lear
 Monash University, Melbourne  
 - Developed smartphone-video pipelines for contactless heart rate, SpO₂, and blood pressure estimation, covering face ROI extraction, rPPG preprocessing, feature engineering, and model training.
 - Built CNN- and Transformer-based physiological monitoring models with color transforms, bandpass filtering, and self-attention to improve robustness in real-world mobile-health settings.
-- Analysed 5,000+ video samples across multiple datasets, reporting 95%+ accuracy on heart-rate and blood-pressure tasks and MAE below 5 mmHg for contactless blood pressure estimation.
+- Analyzed 5,000+ video samples across multiple datasets, reporting 95%+ accuracy on heart-rate and blood-pressure tasks and MAE below 5 mmHg for contactless blood pressure estimation.
 - Designed reproducible cross-subject evaluation, ablation, and model-optimization workflows, reducing inference time by about 40% while keeping model size below 10M parameters.
 
 ### Master’s Thesis (Computational Physics) | 2021–2022
@@ -44,7 +44,7 @@ Department of Physics, BITS Pilani, India
 - Investigated phase transitions in ferromagnetic systems using Monte Carlo simulations with the Metropolis algorithm on 2D and 3D Ising lattice models.
 - Calculated energy, magnetization, susceptibility, and specific heat across temperature sweeps, with emphasis on extracting stable signal-like patterns from noisy simulations.
 - Reduced runtime by 40% through vectorization and parallel temperature computations.
-- Applied finite-size scaling and power-law fitting to estimate critical exponents and analyse the effect of disorder on transition behaviour.
+- Applied finite-size scaling and power-law fitting to estimate critical exponents and analyze the effect of disorder on transition behavior.
 
 ---
 
